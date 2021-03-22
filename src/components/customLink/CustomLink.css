@@ -1,0 +1,33 @@
+.CustomLink{
+    
+    background-color: black;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    margin: 5px;
+    border-radius: 4px;
+
+}
+
+.CustomLink a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+.GoBack a{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.GoBack{
+    border-bottom: 1px solid #ccc;
+    background-color: #17578e;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.BackArrow {
+    color: white;
+}
